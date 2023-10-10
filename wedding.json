@@ -1,0 +1,67 @@
+[
+  {
+    "id": 4,
+    "package": "Joyful Moments Birthday Coordination",
+    "banner": "https://i.ibb.co/DtLJcHS/birth-day.jpg",
+    "description": "we believe that every birthday should be an unforgettable celebration. Our team of dedicated event planners specializes in creating magical and stress-free birthday experiences for clients of all ages. From intimate family gatherings to extravagant themed parties, we handle every detail with care and creativity.",
+    "price": 1000
+  },
+
+  {
+    "id": 5,
+    "package": "Photography and Videography",
+    "banner": "https://i.ibb.co/XbLwmvd/photgraphy.jpg",
+    "description": "Capture every moment of your special day with our Photography and Videography package. We work with professional photographers and videographers to document your wedding beautifully. From candid shots to a captivating video, you'll cherish these memories forever.",
+    "price": 800
+  },
+
+  {
+    "id": 6,
+    "package": "Entertainment and Music",
+    "banner": "https://i.ibb.co/Y0RHjrP/entertainment-music.jpg",
+    "description": "Set the mood with our Entertainment and Music package. We offer a range of entertainment options, including live bands, DJs, and curated playlists. With our sound and lighting expertise, your wedding will be filled with music and moments to remember.",
+    "price": 1000
+  },
+  {
+    "id": 7,
+    "package": "Enchanted Forest Wedding Festival",
+    "banner": "https://i.ibb.co/P6rCz8H/forest-wedding.jpg",
+    "description": "At Enchanted Forest Wedding Services, we specialize in turning your dream woodland wedding into a reality. Imagine exchanging your vows under the canopy of ancient trees, surrounded by the serenity of nature. Our team is passionate about creating magical forest weddings that capture the essence of love and enchantment.",
+    "price": 2000
+  },
+  {
+    "id": 8,
+    "package": "Savor the Moment Wedding Cuisine",
+    "banner": "https://i.ibb.co/5hsFm1H/wedding-fook.jpg",
+    "description": "At Culinary Elegance Wedding Catering, we believe that exquisite cuisine is an essential ingredient in crafting the perfect wedding celebration. Our culinary team is dedicated to creating a feast for the senses that will leave your guests raving about your wedding for years to come.",
+    "price": 2900
+  },
+  {
+    "id": 9,
+    "package": "Cruise Ship Wedding Celebrations",
+    "banner": "https://i.ibb.co/djdRR9f/boat-marriage-wedding-1265x725.jpg",
+    "description": "Set sail on the voyage of a lifetime as you exchange vows aboard our Nautical Nuptials cruise ship wedding celebrations. Picture saying I do against the backdrop of the endless ocean, the gentle sea breeze carrying your love story to new horizons Our cruise ship weddings offer the perfect blend of romance and adventure. Whether you envision an intimate ceremony beneath the open sky or a grand celebration in the luxurious confines of a cruise liner, we are here to turn your dream into a reality.",
+    "price": 3500
+  },
+  {
+    "id": 1,
+    "package": "Full-Service Wedding Planning",
+    "banner": "https://i.ibb.co/rxYPv2C/weadding-room.jpg",
+    "description": "Our Full-Service Wedding Planning package offers complete assistance for your special day. From choosing the perfect venue and managing vendors to designing the wedding of your dreams, we handle it all. With meticulous budget coordination, we ensure your wedding day is stress-free and unforgettable. Let us bring your vision to life and create cherished memories that last a lifetime.",
+    "price": 7900
+  },
+  {
+    "id": 2,
+    "package": "Partial Wedding Planning",
+    "banner": "https://i.ibb.co/1GpL9Jb/three.jpg",
+    "description": "Our Partial Wedding Planning package provides tailored support for your wedding. We help you select the right vendors, negotiate contracts, and manage timelines, so you can focus on the moments that matter most. With our expertise, you can confidently plan the wedding you've always envisioned, without the stress.",
+    "price": 2000
+  },
+  {
+    "id": 3,
+    "package": "Day-of Coordination",
+    "banner": "https://i.ibb.co/T0LdPcf/two.jpg",
+    "description": "On your big day, our Day-of Coordination package ensures everything runs smoothly. We oversee vendor setup, manage the timeline, and address any last-minute issues, allowing you to fully enjoy the celebration with peace of mind. Trust us to execute your plans flawlessly, leaving you free to savor every moment.",
+    "price": "Custom Quote"
+  }
+]
